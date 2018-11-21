@@ -2,7 +2,7 @@
 /**
 Package		: MUSCS
 Lib.Info	: Login processor and input validation
-			: Password encryption using SHA-1
+		: Password encryption using SHA-1
 Link		: http://www.wisebearproject.com
 Author		: Juki Gladak <jukigladak@gmail.com>
 Copyright	: Copyright (c) 2018 Juki Gladak <jukigladak@gmail.com>
